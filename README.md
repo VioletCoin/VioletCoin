@@ -1,9 +1,9 @@
 Violetcoin integration/staging tree
 ================================
 
-http://www.coingen.io
 
 Copyright (c) 2009-2013 Bitcoin Developers
+Copyright (c) 2014 VioletCoin Developers
 
 What is Violetcoin?
 ----------------
@@ -14,8 +14,7 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Violetcoin is also the name of the open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Violetcoin client software, see http://www.coingen.io.
+
 
 License
 -------
